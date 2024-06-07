@@ -7,12 +7,12 @@ import time
 
 
 api_url = "https://api.cronoscan.com/api"
-api_key = "CADT8GAU4TJUZWA9DVGPMQX3AY58M6TXDP"
+api_key = ""
 
 
 slack_api = "https://slack.com/api/chat.postMessage"
-slack_token = "xoxb-6835991386448-7238516535122-qLiuFLLXvATm69CmIjhgRwlN"
-slack_channel_id = "C0770FEQWSW"
+slack_token = ""
+slack_channel_id = ""
 
 slack_headers = {
     "Content-Type": "application/json",
