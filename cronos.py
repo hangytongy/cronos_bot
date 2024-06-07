@@ -12,7 +12,7 @@ api_key = ""
 
 slack_api = "https://slack.com/api/chat.postMessage"
 slack_token = ""
-slack_channel_id = ""
+slack_channel_id = "C0770FEQWSW"
 
 slack_headers = {
     "Content-Type": "application/json",
